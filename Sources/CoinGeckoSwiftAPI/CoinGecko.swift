@@ -102,6 +102,9 @@ class CoinGecko {
         }
         return nil
     }
+    private func dummy() {
+        print("Hello world!")
+    }
     
     
     enum Sorting: String {
